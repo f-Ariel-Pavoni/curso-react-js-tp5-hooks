@@ -7,9 +7,9 @@ Consiste en una aplicación de lista de tareas que permite agregar, completar, e
 
 ## Tecnologías utilizadas
 
-- React + Vite  
-- JavaScript (ES6+)  
-- Bootstrap 5  
+- React + Vite
+- JavaScript (ES6+)
+- Bootstrap 5
 - React Hooks:
   - useState
   - useEffect
@@ -56,26 +56,26 @@ src/
 
 ## Funcionalidades
 
-- Agregar tareas nuevas  
-- Marcar tareas como completadas  
-- Eliminar tareas  
-- Filtrar tareas por texto  
-- Persistencia en localStorage  
-- Contador de tareas completadas y pendientes  
-- Optimización con useMemo  
-- Auto focus en input con useRef  
+- Agregar tareas nuevas
+- Marcar tareas como completadas
+- Eliminar tareas
+- Filtrar tareas por texto
+- Persistencia en localStorage
+- Contador de tareas completadas y pendientes
+- Optimización con useMemo
+- Auto focus en input con useRef
 
 ---
 
 ## Conceptos aplicados
 
-- useState para manejo de estado  
-- useEffect para sincronización con localStorage  
-- useRef para acceso al DOM  
-- useMemo para optimización de cálculos  
-- Custom hooks para reutilización de lógica  
-- Componentización en React  
-- Props y flujo de datos unidireccional  
+- useState para manejo de estado
+- useEffect para sincronización con localStorage
+- useRef para acceso al DOM
+- useMemo para optimización de cálculos
+- Custom hooks para reutilización de lógica
+- Componentización en React
+- Props y flujo de datos unidireccional
 
 ---
 
@@ -88,7 +88,15 @@ npm install
 npm run dev
 ```
 
----
+## Capturas de pantalla
+
+###
+
+## ![laptop](./src/assets/MacBook%20Pro-1783345733675.jpeg)
+
+## ![tablet](./src/assets/iPad-1783345733673.jpeg)
+
+## ![cel](./src/assets/iPhone%2013%20Pro%20Max-1783345733662.jpeg)
 
 ## 👨‍💻 Autor
 
