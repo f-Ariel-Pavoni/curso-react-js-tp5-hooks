@@ -70,10 +70,10 @@ src/
 ## Conceptos aplicados
 
 - useState para manejo de estado
-- useEffect para sincronización con localStorage
-- useRef para acceso al DOM
-- useMemo para optimización de cálculos
-- Custom hooks para reutilización de lógica
+- useEffect 
+- useRef
+- useMemo
+- Custom hooks
 - Componentización en React
 - Props y flujo de datos unidireccional
 
